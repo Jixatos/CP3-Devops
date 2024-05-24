@@ -1,4 +1,4 @@
-# CP1-Mobile
+# CP3-Devops
 
 Este repositório é um trabalho da matéria de Devops do curso de Análise e Desenvolvimento de Sistemas, na FIAP (Faculdade de Informática e Administração Paulista).
 
